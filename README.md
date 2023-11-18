@@ -15,7 +15,7 @@
 ```javascript
 const aous = {
   lang: [Javascript, HTML, CSS, PHP, C#],
-  tools: [React, Node, ASP.NET, C#, GIT]
+  tools: [Vue, Node, ASP.NET, Laravel, SASS, Bootstrap]
 }
 ```
 
